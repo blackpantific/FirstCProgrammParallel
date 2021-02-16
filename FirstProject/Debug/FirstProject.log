@@ -1,0 +1,6 @@
+﻿  Hello.c
+G:\Xamarin\C&C++\FirstProject\FirstProject\Hello.c(18,12): warning C4013: 'time' undefined; assuming extern returning int
+G:\Xamarin\C&C++\FirstProject\FirstProject\Hello.c(31,18): warning C4013: 'sumLin' undefined; assuming extern returning int
+G:\Xamarin\C&C++\FirstProject\FirstProject\Hello.c(40,39): warning C4013: 'omp_get_thread_num' undefined; assuming extern returning int
+G:\Xamarin\C&C++\FirstProject\FirstProject\Hello.c(40,62): warning C4013: 'omp_get_num_threads' undefined; assuming extern returning int
+  FirstProject.vcxproj -> G:\Xamarin\C&C++\FirstProject\Debug\FirstProject.exe
